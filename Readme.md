@@ -1,16 +1,30 @@
-# **Assignment Title**  
+# **nth Letter**  
 
 ## **Assignment Description**  
-
+Create a function called nthLetter() that returns the nth letter of a given word w. n is also given. If the nth letter of the word does not exist, return False.
 
 ## **Examples**  
->
+>nthLetter("iguana", 3)  
+u  
+
+>nthLetter("dog", 0)  
+d  
+
+>nthLetter("cat", 4)  
+False  
 
 ## **Limitations**  
+1 function  
+0 for looops  
+1 if  
+1 else  
 
 ## **Hints**  
+w[0] returns the first letter of the word.  
+len(w) returns the number of letters in the word.  
 
 ## **Concepts**  
+Unit 1, Unit 2, lists  
 
 ---
 
